@@ -30,6 +30,6 @@ with open('day2.txt', 'r') as file:
 
             
 
-print(f'Antal säkra rapporter: {safe_count}')
+print(f'Number of safe reports: {safe_count}')
     
         
